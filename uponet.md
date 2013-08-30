@@ -13,41 +13,41 @@ UPO-NETについて「UPO-NETオンライン学習大学ネットワーク」で
 ##利用手順
 1. moodleにログインする
 1. UPO-NETパッケージを追加したいコースを選択し、コースに入ったら「編集モード」にする
-1. UPO-NETパッケージを追加したいトピックの![「活動またはリソースを追加する」](images/addActivityAndResours.png) をクリック
-1. UPO-NETパッケージを選択し![「追加」](images/addButton.png)をクリック
+1. UPO-NETパッケージを追加したいトピックの![「活動またはリソースを追加する」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/addActivityAndResours.png?raw=true) をクリック
+1. UPO-NETパッケージを選択し![「追加」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/addButton.png?raw=true)をクリック
 
-	![「UPO-NET選択画面」](images/selectUPONET.png)
+	![「UPO-NET選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectUPONET.png?raw=true)
 	
 
-1. ![「UPO-NETリポジトリから選択…」](images/selectFromUponetRepository.png)をクリック
-	![「UPO-NET編集画面」](images/uponetEditMode1.png)
+1. ![「UPO-NETリポジトリから選択…」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectFromUponetRepository.png?raw=true)をクリック
+	![「UPO-NET編集画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uponetEditMode1.png?raw=true)
 1. 以下のような画面が開く
 
 	ここでは例として「リメディアル数学」の「数学初級」の「基本の復習問題」の教材をトピックに追加する
-	![「UPO-NET教材選択画面」](images/uponetselectCharenge.png)
-	![「UPO-NET数学選択画面」](images/selectUPONETmath.png)
-	![「UPO-NET数学（初級問題）選択画面」](images/selectUPONETmathBegginer.png)
+	![「UPO-NET教材選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uponetselectCharenge.png?raw=true)
+	![「UPO-NET数学選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectUPONETmath.png?raw=true)
+	![「UPO-NET数学（初級問題）選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectUPONETmathBegginer.png?raw=true)
 	
 	「基本の復習問題」の教材の中には更に教科書や演習問題などの項目がある。基本の復習問題でさらに学生に取り組ませたい項目を選択することができる。次の画像は教科書（数の計算）のみを取り組ませた例である。
-	![「UPO-NET数学（初級問題）選択画面」](images/selectUPONETmathBegginerText.png)
+	![「UPO-NET数学（初級問題）選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectUPONETmathBegginerText.png?raw=true)
 	
 	このように取り組ませたい教材の項目以外のチェックボックスを外すことで一つの項目のみ取り組ませることができる。
-	教材の選択が終わったら![「UPO-NET教材選択画面」](images/uponetselect.png)をクリックして教材の選択を終了する
+	教材の選択が終わったら![「UPO-NET教材選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uponetselect.png?raw=true)をクリックして教材の選択を終了する
 	
 1. UPO-NETの教材を選択したら残りの項目を設定する
-1. 設定が完了したら![保存してコースに戻る](images/saveAndRetuneCourse.png)か![保存して表示する](images/saveAndView.png)をクリックして編集を終了する
+1. 設定が完了したら![保存してコースに戻る](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndRetuneCourse.png?raw=true)か![保存して表示する](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndView.png?raw=true)をクリックして編集を終了する
 
 ##コースにUPO-NET成績表を表示させる
 「UPO-NETとは」で触れたが、コースごとにUPO-NET成績表を表示させることが出来る。以下にその手順を示す。
 
 1. UPO-NET成績表を追加したいコースを選択し、編集モードにする
-1. 左側の「管理」ブロックの下にある「ブロックを追加する」ブロックの中の![追加…](images/addBlockButton.png)をクリック
+1. 左側の「管理」ブロックの下にある「ブロックを追加する」ブロックの中の![追加…](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/addBlockButton.png?raw=true)をクリック
 
-	![ブロック](images/blocks.png)
+	![ブロック](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/blocks.png?raw=true)
 
 1. 「UPO-NET成績表」を選択する
 
-	![ブロック](images/selectBlocks.png)
+	![ブロック](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectBlocks.png?raw=true)
 
 1. コースに「UPO-NET成績表」が表示されるので、「UPO-NET成績表」ブロックの「成績表を開く」で成績表を表示することができる
  
