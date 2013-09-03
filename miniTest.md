@@ -26,18 +26,18 @@ Moodleではオンラインで小テストを実施することが出来る。�
 1. 小テストを追加したいコースを選択し、コースに入ったら「編集モード」にする
 1. 「管理」ブロックの「問題バンク」をクリックする
 
-	![「問題バンク選択」](images/selectQuestionBank.png)
-1. ![新しい問題を作成する…](images/createNewQuestion.png)をクリックし、作成したい問題の種類を選択する
+	![「問題バンク選択」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/selectQuestionBank.png?raw=true)
+1. ![新しい問題を作成する…](https://github.com/uttigimu/moodleManualForTeacher/blob/master/createNewQuestion.png?raw=true)をクリックし、作成したい問題の種類を選択する
 1.  以下の図のような画面が表示されるので作成したい問題の種類を選択肢し「次へ」をクリック
 
-	![問題種類一覧](images/questionTypesList.png)
+	![問題種類一覧](https://github.com/uttigimu/moodleManualForTeacher/blob/master/questionTypesList.png?raw=true)
 1. 問題名や問題文、正答など、必要な情報を入力する
 1. 「変更を保存する」をクリックする
 ###活動：小テストを追加して受験方法などを設定する
 1. 小テストを追加したいトピックの![「活動またはリソースを追加する」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/addActivityAndResours.png?raw=true) をクリック
 1. 小テストを選択し![「追加」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/addButton.png?raw=true)をクリック
 
-	![「小テスト選択画面」](images/selectMiniTest.png)
+	![「小テスト選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/selectMiniTest.png?raw=true)
 	
 
 1. 各項目を設定していく
@@ -46,13 +46,13 @@ Moodleではオンラインで小テストを実施することが出来る。�
 
 ###問題バンクから出題する問題を選び、各問題の配点を決定する
 
-1.  ![「小テストを編集する」](images/edhitMiniTestButton.png)をクリック
-1. 下の図のような画面が表示されたら右上の ![問題バンク（表示）](images/viewQuestionBankButton.png)  をクリック
+1.  ![「小テストを編集する」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/edhitMiniTestButton.png?raw=true)をクリック
+1. 下の図のような画面が表示されたら右上の ![問題バンク（表示）](https://github.com/uttigimu/moodleManualForTeacher/blob/master/viewQuestionBankButton.png?raw=true)  をクリック
 
-	![問題バンク（表示）](images/edhitMiniTest.png)
+	![問題バンク（表示）](https://github.com/uttigimu/moodleManualForTeacher/blob/master/edhitMiniTest.png?raw=true)
 
-1. 下の図のような画面が表示されるので赤線で囲まれている![<<](images/questionBankAddButton.png)をクリックするとその問題を小テストに追加することが出来る
+1. 下の図のような画面が表示されるので赤線で囲まれている![<<](https://github.com/uttigimu/moodleManualForTeacher/blob/master/questionBankAddButton.png?raw=true)をクリックするとその問題を小テストに追加することが出来る
 
-	![問題バンク（表示）](images/viewQuestionBank.png)
+	![問題バンク（表示）](https://github.com/uttigimu/moodleManualForTeacher/blob/master/viewQuestionBank.png?raw=true)
 1. 小テストの枠内で評点の点数を変更し、「保存」をクリックする
-1. また、![問題を追加する…](images/addQuesitonButton.png)をクリックすると問題バンクにない問題を作成することができる 
+1. また、![問題を追加する…](https://github.com/uttigimu/moodleManualForTeacher/blob/master/addQuesitonButton.png?raw=true)をクリックすると問題バンクにない問題を作成することができる 
