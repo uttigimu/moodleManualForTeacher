@@ -1,4 +1,4 @@
-#<a name「UPO-NET編集画面」="uponet">UPO-NETパッケージ</a>
+#<a name="uponet">UPO-NETパッケージ</a>
 ##UPO-NETとは
 UPO-NETについて「UPO-NETオンライン学習大学ネットワーク」で以下のように紹介されている
 >放送大学が高等教育機関などのeラーニングの普及、拡大、また多様なメディアを活用した教育の実現に資することを目的に行っている事業「オンライン学習大学ネットワーク」で、UPO-NETはその愛称です。
@@ -32,7 +32,7 @@ UPO-NETについて「UPO-NETオンライン学習大学ネットワーク」で
 	![「UPO-NET数学（初級問題）選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/selectUPONETmathBegginerText.png?raw=true)
 	
 	このように取り組ませたい教材の項目以外のチェックボックスを外すことで一つの項目のみ取り組ませることができる。
-	教材の選択が終わったら![「UPO-NET教材選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uponetselect.png?raw=true)をクリックして教材の選択を終了する
+	教材の選択が終わったら![「UPO-NET教材選択画面」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uponetSelect.png?raw=true)をクリックして教材の選択を終了する
 	
 1. UPO-NETの教材を選択したら残りの項目を設定する
 1. 設定が完了したら![保存してコースに戻る](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndRetuneCourse.png?raw=true)か![保存して表示する](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndView.png?raw=true)をクリックして編集を終了する
@@ -51,7 +51,14 @@ UPO-NETについて「UPO-NETオンライン学習大学ネットワーク」で
 
 1. コースに「UPO-NET成績表」が表示されるので、「UPO-NET成績表」ブロックの「成績表を開く」で成績表を表示することができる
  
+***
+
 ##コラム
+
+***
+
+
+
  
 【参考文献】
 
