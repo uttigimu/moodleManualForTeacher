@@ -54,3 +54,8 @@
 7. ![「このファイルをアップロードする」](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/uploadAtThisFileButton.png?raw=true)をクリック
 8. 設定が完了したら![保存してコースに戻る](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndRetuneCourse.png?raw=true)か![保存して表示する](https://github.com/uttigimu/moodleManualForTeacher/blob/master/images/saveAndView.png?raw=true)をクリックして編集を終了する
 
+【参考】
+
+株式会社テクノウォーカー. 「Moodle情報サイト」. Moodle情報サイト. 2013. http://www.twalker.co.jp/moodle/basics/basic_moodle24.html, (参照 2013-9-3).
+
+
